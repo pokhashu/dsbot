@@ -1,0 +1,11 @@
+{
+  "bans": {},
+  "mutes": {},
+  "tickets": {
+    "tickets_amount": 0,
+    "tickets_closed": 0,
+    "tickets_in_process": 0,
+    "tickets_unprocessed": 0
+  },
+  "warns": {}
+}
